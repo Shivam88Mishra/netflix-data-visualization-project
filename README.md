@@ -1,8 +1,8 @@
 # netflix-data-visualization-project
 A complete Netflix movie data analysis and visualization project using Python (Jupyter), Power BI, and CSV data cleaning.
 
-#Raw Data
-mymoviedb.csv`: Original raw dataset before cleaning
+#Files Included:
+'mymoviedb.csv`: Original raw dataset before cleaning
 
 # Overview:
 This project explores and visualizes a dataset of Netflix movies using:
